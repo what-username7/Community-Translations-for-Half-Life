@@ -1,40 +1,61 @@
-此模组由 Source BR 开发并发布, 简体中文翻译由 WhatUziname7 提供。
-本模组免费提供，仅限非商业用途。未经创作者明确许可，禁止出售或将其用于付费项目。
-禁止在未注明创作者的情况下重新分发。本项目为粉丝作品，与 Valve Corporation 无任何关联。
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f37c1b&height=85&section=header"/>
 
-安装模组：
+<div align="right">
+    <a href="Docs/Readmes/Brazilian.md" target="_blank">
+        <img src="https://raw.githubusercontent.com/source-br/Community-Translations-for-GoldSrc/refs/heads/main/Docs/img/readme/flag_br.png" height="25" width="25">
+    </a>
+</div>
 
-######################################################################################################################
+<div align="center">
 
-# 1. 将“Half-Life 1 textures ZH-CN”文件夹中的所有文件和文件夹拖放到游戏根目录； #
-# - 游戏根目录通常位于“C:\Program Files (x86)\Steam\steamapps\common\Half-Life” #
-# 2. 在游戏设置的视频 (或内容) 中启用“允许自定义插件内容” #
-# - '视频'和'内容'分别为'Video'和'Content', '允许自定义插件内容'为'Allow custom addon content' #
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=f37c1b&center=true&vCenter=true&repeat=true&width=1000&lines=Community+Translations+for)](https://git.io/typing-svg)
 
-##################################################################################################################
+![Title](Docs/img/logos/title.png)
 
-或者手动操作；（如果没有 valve_addon 文件夹，请自行创建一个）
+[![Guidelines](https://img.shields.io/badge/Guidelines-EN-f37c1b.svg)](https://github.com/source-br/.github/blob/main/guidelines/guidelines.md)
+[![Documentation](https://img.shields.io/badge/Documentation-Wiki-f37c1b.svg)](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki)
+[![Discord](https://img.shields.io/discord/1189628376504340590?logo=Discord&logoColor=%23FFFFFF&label=Discord%20Server&color=f37c1b)](https://discord.gg/tVNv6SNZZT)
 
---------------------------------------------------
-将 decals.wad 文件粘贴到游戏目录下的“valve_addon”文件夹中
-将 halflife.wad 文件粘贴到游戏目录下的“valve_addon”文件夹中
-将 gfx.wad 文件粘贴到游戏目录下的“valve_addon”文件夹中
-将 sample.wad 文件粘贴到游戏目录下的“valve_addon”文件夹中
-将 cached.wad 文件粘贴到游戏目录下的“valve_addon”文件夹中
-将“maps”文件夹粘贴到游戏目录下的“valve_addon”文件夹中
-将“models”文件夹粘贴到游戏目录下的“valve_addon”文件夹中
+</div>
 
---------------------------------------------------
+#
 
-警告！
+> [!WARNING]
+> 此仓库是[**`GoldSrc 社区翻译`**](https://github.com/source-br/Community-Translations-for-GoldSrc)的一部分。它设计为作为该项目中央仓库的子模块使用，而中央仓库应当用于管理此仓库。
 
-GoldSrc 是一款较老的游戏引擎，最初是为 Half-Life 及其衍生作品开发的。由于技术较老，它存在一些技术限制，会影响多人游戏模式下某些功能的准确性和支持。这可能会影响游戏中地图纹理的完整翻译。
+该项目旨在以社区驱动、玩家对玩家的方式，将**Half-Life**的材质、界面和文本翻译成尚无官方翻译的其他语言。
 
-- r_wadtextures 1 命令
-解决此问题的一个部分方法是在游戏控制台中使用 r_wadtextures 1 命令。此命令会让游戏在 .wad 文件中查找纹理，从而应用已翻译的版本。
+这些翻译由社区制作，本仓库汇总了可编辑的 `.psd` 格式的材质。文本和界面位于 GoldSrc 社区翻译仓库中。
 
-但是，此解决方案存在一些缺点：
-如果地图没有关联的 .wad 文件，或者纹理不存在于 .wad 文件中，游戏将显示“缺少纹理”，这可能会影响游戏体验。
-在某些情况下，使用此命令可能会导致与自定义地图不兼容，从而降低游戏体验的一致性。
-因此，由于 GoldSrc 的技术限制，需要注意的是，某些多人游戏地图中的某些纹理可能无法翻译，使用 r_wadtextures 1 命令或许有所帮助，但在某些情况下也存在导致问题的风险。
-如有任何疑问或需要帮助，请加入 Source BR 的 Discord 服务器：https://discord.gg/tVNv6SNZZT
+- [关于翻译](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki/About-the-Translations)
+
+## 可用翻译
+- 🇧🇷 葡萄牙语 (巴西) - ⬇️ [下载该翻译](https://github.com/source-br/Community-Translations-for-GoldSrc/releases/download/continuous/Half-Life-Brazilian.zip)
+
+## 如何协作
+
+- [文档](https://github.com/source-br/Community-Translations-for-GoldSrc/wiki)
+
+如果你有相关知识，你可以将游戏翻译成你的语言，或者改进项目。
+
+1. **改进或修正建议**
+- 在此仓库中打开一个 *issue*。
+- 或通过 [Discord](https://discord.gg/tVNv6SNZZT) 联系我们。
+
+2. **其他语言的翻译或改进**
+- 阅读文档，如果需要进一步指导，请联系团队。
+- 经验证后，你的翻译将被添加到项目中，并获得应有的署名。
+
+## 捐款 
+
+您可以通过捐款支持我们 🧡
+
+ [![Donate](https://img.shields.io/badge/-🧡%20Donate-0D1117?style=for-the-badge&labelColor=0D1117)](https://www.sourcebr.com.br/doar)
+
+> [!WARNING]
+> 此项目与Valve公司无关。游戏内容的所有权利属于Valve公司。
+
+> [!NOTE]
+> 该项目由 [Source BR](https://www.sourcebr.com.br) 管理，所以如果您有任何问题，请通过我们的 [Discord](https://discord.gg/tVNv6SNZZT) 联系我们或发送电子邮件至：contato@sourcebr.com.br。
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f37c1b&height=85&section=footer"/>
