@@ -20,7 +20,7 @@
 
 #
 
-> [!警告]
+> [!WARNING]
 > 此仓库是[**`GoldSrc 社区翻译`**](https://github.com/source-br/Community-Translations-for-GoldSrc)的一部分。它设计为作为该项目中央仓库的子模块使用，而中央仓库应当用于管理此仓库。
 
 该项目旨在以社区驱动、玩家对玩家的方式，将**Half-Life**的材质、界面和文本翻译成尚无官方翻译的其他语言。
@@ -52,10 +52,10 @@
 
  [![捐款](https://img.shields.io/badge/-🧡%20Donate-0D1117?style=for-the-badge&labelColor=0D1117)](https://www.sourcebr.com.br/doar)
 
-> [!警告]
+> [!WARNING]
 > 此项目与Valve公司无关。游戏内容的所有权利属于Valve公司。
 
-> [!注意]
+> [!NOTE]
 > 该项目由 [Source BR](https://www.sourcebr.com.br) 管理，所以如果您有任何问题，请通过我们的 [Discord](https://discord.gg/tVNv6SNZZT) 联系我们或发送电子邮件至：contato@sourcebr.com.br。
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f37c1b&height=85&section=footer"/>
